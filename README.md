@@ -1,1 +1,1 @@
-# ticket-collector
+# LinkedIn Viewer Bot
