@@ -1,0 +1,52 @@
+html{
+    height: 0px;
+}
+h1 {
+    text-align: center;
+}
+.button {
+    background-image: url("inactive_face.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    border: 0;
+}
+.selection {
+    border: 0;
+    width: 100%;
+    margin-bottom: 30px;
+    border-bottom: 1px solid black;
+    box-shadow: 1px 1px 1px grey;
+}
+.selection:focus{
+    outline: none;
+}
+.purchase {
+    border: 0;
+    width: 100%;
+    margin-bottom: 30px;
+    border-bottom: 1px solid black;
+    box-shadow: 1px 1px 1px grey;
+}
+.purchase:focus{
+    outline: none;
+}
+
+#input_box{
+    border: 0;
+    background-color: black;
+    color: #7CFC00;
+    outline: none;
+    resize: none;
+    height: 200px;
+}
+.span_left{
+    float: left;
+}
+.span_right{
+    float: right;
+}
