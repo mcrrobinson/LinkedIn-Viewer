@@ -3,4 +3,5 @@ Iterates through the peoples tag on LinkedIn in order to get profile views up. I
 
 ## Usage
 Copy the folder to a chrome extensions tab and enable developer mode. Then simply navigate to a page which has the sidebar. Then type in the number of iterations you wish to proceed with then click on the face to start.
+
 ![alt text](https://github.com/mcrrobinson/LinkedIn-Viewer/blob/master/people.png "Image Usage")
